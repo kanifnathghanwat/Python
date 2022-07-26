@@ -1,3 +1,7 @@
+Date: 25/07/2022
+Name: Ghanwat Kanifnath Adinath
+     
+     
 name1=input('enter your first love name')
 name2=input('enter your secound love name')
 L=name1.count('L') + name2.count('L') + name1.count('l') + name2.count('l')
