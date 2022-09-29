@@ -1,3 +1,9 @@
+'''
+Title: Math Inbuilt Functions
+Programmer: Kanifnath Ghanwat
+Date: 27/09/2022
+'''
+
 a=min(10,20,30,40,50)
 print(f"Min is: ",a)
 
